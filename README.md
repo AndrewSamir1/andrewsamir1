@@ -1,10 +1,10 @@
-# Andrew Samir
+# ANDREW SAMIR
 ## Full Stack Software Engineer
 ## CONTACTS
 - Email: andrewsamir1@gmail.com
 - LinkedIn: linkedin.com/in/andrew-samir-nassif/
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **ABOUT ME**
+##  **ABOUT ME**
 
 
 
@@ -15,7 +15,7 @@ Detail-oriented, responsible, and a committed engineer with a get-it-done, on-ti
 - Methodologies: Agile software development Object-Oriented Programing, Test-driven development.
 - Bachelor Degree in Mechatronics Engineering.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## PROFESSIONAL EXPERIENCE
 **Software Developer**
@@ -42,7 +42,7 @@ transactions, revenues and clients data with data analytics to improve business 
 Bachelor of Science in Mechatronics, Robotics, and Automation Engineering.
 2014 – 2019
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> SKILLS</b>
+## <b> SKILLS</b>
 
 #### Languages
 TypeScript/JavaScript, Python.
