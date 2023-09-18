@@ -46,4 +46,4 @@ Bachelor of Science in Mechatronics, Robotics, and Automation Engineering.
 
 ## <b> SKILLS</b>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,bash,c,css,django,docker,express,fastapi,firebase,flask,git,,github,html,js,jest,linux,mongodb,mysql,nestjs,nextjs,nginx,nodejs,postgres,postman,prisma,py,react,redis,redux,regex,sqlite,sequelize,ts,vscode,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,c,css,django,docker,express,fastapi,firebase,flask,git,github,html,js,linux,mongodb,mysql,nestjs,nextjs,nginx,nodejs,postgres,postman,py,react,redis,redux,sequelize,ts,vscode,&theme=dark)](https://skillicons.dev)
